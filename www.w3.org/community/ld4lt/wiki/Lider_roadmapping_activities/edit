@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-not-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>View source for Lider roadmapping activities - Linked Data for Language Technology Community Group</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-not-available";var cookie=document.cookie.match(/(?:^|; )ld4lt_ld4lt_mwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":true,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c4af2015b5838632d7c549dd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lider_roadmapping_activities","wgTitle":"Lider roadmapping activities","wgCurRevisionId":862,"wgRevisionId":0,"wgArticleId":55,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Lider_roadmapping_activities","wgRelevantArticleId":55,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[]};
+RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready"};RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.ready","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/community/ld4lt/wiki/load.php?lang=en&amp;modules=skins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/community/ld4lt/wiki/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="generator" content="MediaWiki 1.43.6">
+<meta name="robots" content="noindex,nofollow,max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<link rel="search" type="application/opensearchdescription+xml" href="/community/ld4lt/wiki/rest.php/v1/search" title="Linked Data for Language Technology Community Group (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://www.w3.org/community/ld4lt/wiki/api.php?action=rsd">
+<link rel="alternate" type="application/atom+xml" title="Linked Data for Language Technology Community Group Atom feed" href="/community/ld4lt/wiki/index.php?title=Special:RecentChanges&amp;feed=atom">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lider_roadmapping_activities rootpage-Lider_roadmapping_activities skin-vector-2022 action-edit"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/community/ld4lt/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/community/ld4lt/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/community/ld4lt/wiki/Special:Random" title="Load a random page [x]" accesskey="x"><span>Random page</span></a></li><li id="n-help-mediawiki" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents"><span>Help about MediaWiki</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/community/ld4lt/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="https://www.w3.org/assets/logos/w3c-2025/svg/w3c.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<strong class="mw-logo-wordmark">Linked Data for Language Technology Community Group</strong>
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/community/ld4lt/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Linked Data for Language Technology Community Group [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/community/ld4lt/wiki/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Linked Data for Language Technology Community Group" aria-label="Search Linked Data for Language Technology Community Group" autocapitalize="sentences" title="Search Linked Data for Language Technology Community Group [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/community/ld4lt/wiki/index.php?title=Special:UserLogin&amp;returnto=Lider+roadmapping+activities&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="More options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/community/ld4lt/wiki/index.php?title=Special:UserLogin&amp;returnto=Lider+roadmapping+activities&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading">View source for Lider roadmapping activities</h1>
+				</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities" title="View the content page [c]" accesskey="c"><span>Page</span></a></li><li id="ca-talk" class="new vector-tab-noicon mw-list-item"><a href="/community/ld4lt/wiki/Talk:Lider_roadmapping_activities/edit?redlink=1" rel="discussion" class="new" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Discussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="vector-tab-noicon mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities"><span>Read</span></a></li><li id="ca-viewsource" class="selected vector-tab-noicon mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities/edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e"><span>View source</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities/history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="vector-more-collapsible-item mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities"><span>Read</span></a></li><li id="ca-more-viewsource" class="selected vector-more-collapsible-item mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities/edit"><span>View source</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities/history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/community/ld4lt/wiki/Special:WhatLinksHere/Lider_roadmapping_activities" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/community/ld4lt/wiki/Special:RecentChangesLinked/Lider_roadmapping_activities" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/community/ld4lt/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-info" class="mw-list-item"><a href="/community/ld4lt/wiki/Lider_roadmapping_activities/info" title="More information about this page"><span>Page information</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle">← <a href="/community/ld4lt/wiki/Lider_roadmapping_activities" title="Lider roadmapping activities">Lider roadmapping activities</a></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors"><div class="mw-permissionerror-badaccess-groups">The action you have requested is limited to users in one of the groups: <a href="/community/ld4lt/wiki/Linked_Data_for_Language_Technology_Community_Group:Users/edit?redlink=1" class="new" title="Linked Data for Language Technology Community Group:Users (page does not exist)">Users</a>, 106, 68293-chairs.</div></div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">= Introduction =
+
+== Purpose ==
+
+This document summarizes key findings from roadmapping activities undertaken by the [http://www.lider-project.eu/ LIDER project]. These activities feed directly into the work of the LD4LT group on use cases and requirements on linked data and language technologies.
+
+== Structure ==
+
+The document provides information for each activity: time and place, related event, target audience etc. It then summarizes key points on use cases and requirements gathered during the activity. Finally it provides links to more detailed information.
+
+= LIDER roadmapping workshops =
+
+== LIDER roadmapping workshop, 21st March 2014, Athens ==
+
+=== General information ===
+
+* Main page: https://www.w3.org/community/ld4lt/wiki/LD4LT_Group_Kick-Off_and_Roadmap_Meeting
+* Audience: Linked Data community
+* Related event: [http://2014.data-forum.eu/ European Data Forum 2014]
+* Detailed information: [http://lider-project.eu/?q=doc/d45-first-roadmapping-workshop-athens-v11 Athens March 2014 roadmapping workshop report]
+
+=== Summary of outcomes ===
+
+* The workshop led to work on converting the [http://www.meta-share.eu META-SHARE] language resource metadata to RDF. This is now undertaken in the LD4LT group.
+* Participants emphasized the need of general best practices and a general architecture for providing linguistic linked data, both metadata and the data itself.
+* Various industries have started to be aware of linguistic linked data. 
+* Information about linguistic linked data sets should be made available. 
+* Future workshops should use summaries of previous events as an introduction
+* Legal experts should be brought onto the table.
+* The work plan of the underlying LIDER project should be made clear to the public including milestones and activities.
+* Showcases on benefits of linked data in various domains like agriculture, medical, education etc. would be beneficial.
+
+== LIDER roadmapping workshop, 8-9 May 2014, Madrid ==
+
+=== General information ===
+* Main page: http://www.multilingualweb.eu/documents/2014-madrid-workshop/ld4lt-rm-workshop/
+* Audience: Web community at large
+* Related event: [http://www.multilingualweb.eu/documents/2014-madrid-workshop/ MultilingualWeb workshop 2014]
+* Detailed information: [http://www.multilingualweb.eu/documents/2014-madrid-workshop/2014-madrid-workshop-report#lider_roadmapping Madrid May 2014 roadmapping workshop report], as part of the MultilingualWeb workshop report
+
+=== Summary of outcomes ===
+
+* About text analytics:
+** Users of text analytics tools need: adaptability to their content domain, customization (e.g. import of taxonomies), flexible input &amp; output formats and processing mechanisms (API, offline, ...).
+** Sentiment resolution is an important functionality for many text analytics usage scenarios.
+** When deciding on solutions, users take capacity (volume, performance, latency) and cost into account.
+** Multilingual text analytics is an area that so far has not seen a lot of activity in industry.
+* About multilingual aspects of Wikipedia:
+** Various types of background information also from Wikipedia can help translators.
+**  Data models for structured information in Wikipedia, e.g. Wikidata, do not rely on the linked data,but conversions to and from linked data are possible.
+** One challenge is the integration of resources like Wikidata, BabelNet or DBpedia.
+* On language resources and language resource metadata:
+** One has to be careful in classifying resources, e.g. language resources (e.g. lexica) versus general knowledge bases like Wikipedia 
+** A (diagram of an) linguistic linked data cloud needs to clearly distinguish between different types of resources.
+** The quality of language resources is sometimes hard to evaluate.
+** Interoperabilty of language resource metadata is a key prerequisite for working with the linguistic linked data cloud.
+* On multilingual corpus transformation:
+** [http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core# NIF] can serve as a pivot format for linked data based corpus representation and processing.
+** Several presentations demonstrated the feasibility of a NIF based approach in different usage scenarios, like RDF representation of existing, XML-based corpora, or integration of linguistic information with localization process metadata.
+** Tooling should be made available to work with linguistic linked data; best practices are needed as well.
+
+Many use cases and requirements discussed at the workshop related to providing access to more structured/annotated data sources and allowing simple connectivity via APIs and standards.
+
+== LIDER roadmapping workshop, 4-6 June 2014, Dublin ==
+
+=== General information ===
+
+* Main page: http://www.localizationworld.com/lwdub2014/feisgiltt/Program.pdf
+* Audience: Localization community
+* Related event: [http://www.localizationworld.com/lwdub2014/about.php Localization world Dublin 2014]
+* Detailed information: [https://www.w3.org/community/ld4lt/wiki/LD4LT_Roadmapping_Workshop_Dublin_June_2014 Dublin June 2014 roadmapping workshop report]
+ 
+=== Summary of outcomes ===
+
+* There is a need for a common API to text analysis services, live update of linked data source, user feedback mechanisms, or annotation relevance indicators.
+* "Too much information is no information": linked data information can help the translator only if it does not lead to an information overflow.
+* A stand-off annotation mechanism is needed to deal with annotation overlap. NIF could be a solution.
+* For the localization industry, licensing metadata is of key importance. Only with such metadata one can also work with internal = closed linked data.
+* Terminology and linked data is a  hot topic discussed also in the [https://www.w3.org/community/ld4lt/track/issues/4 LD4LT group]. Currently there is no standard mapping of the TBX format to RDF.
+* Bitext (= aligned text of a source and one or several translations) could be exposed as as linked data, as an alternative to TMX.
+
+== LIDER roadmapping workshop, 2 September 2014, Leipzig ==
+
+=== General information ===
+
+* Main page: http://mlode2014.nlp2rdf.org/lider-roadmapping-workshop/
+* Audience: Semantic technologies community, including content analytics
+* Related event: [http://www.semantics.cc/ SEMANTiCS Conference 2014]
+* Detailed information: [https://www.w3.org/community/ld4lt/wiki/LD4LT_Group_Leipzig_September_2014_Meeting#Report LIDER Leipzig 2014 roadmapping workshop report]
+
+=== Summary of outcomes ===
+
+* Sharing of linked data involving a cooperative data curation
+* Providing more resources for micro-domains that generalize and can be shared
+* Avoid knowledge silos by emphasizing more the linking both in communities and enterprises
+* Focus on more high-quality open data
+* Work on deeper analysis and more semantics to enable semantic search for things, rather than strings
+* Clarification of what accuracy rates of linked data analytics are reasonable for clients with high statistical result expectations
+
+== LIDER roadmapping workshop, 6 July 2015, Rome ==
+
+=== General information ===
+* Main page: http://lcl.uniroma1.it/cross-media-ld-workshop/
+* Audience: Web community at large
+* Detailed information: [http://lcl.uniroma1.it/cross-media-ld-workshop/ R-WS Rome on cross-media linked data]
+
+===Summary of outcomes===
+
+The workshop brought together the multimedia community with the linguistic linked data community. The main topic was the analysis of cross-media usage of linguistic linked data within Italian public bodies and projects in private companies. A concrete outcome was the potential for a collaboration with the Chambers of Deputies for improving the publishing and  production of linked data and multimedia 
+content.
+
+== LIDER roadmapping workshop, 13 July 2015, Munich ==
+
+=== General information ===
+* Main page: http://lider.linked-data.technology/index.php?id=158
+* Audience: Web community at large
+* Detailed information: [http://lider.linked-data.technology/index.php?id=158 R-WS Munich on Content Analytics and Linked Data in Healthcare and Medicine]
+
+===Summary of outcomes===
+
+The workshop brought together the healthcare community with the linguistic linked data community. Providers of several types of data sources in this area and providers of analytics solutions for the health care sector came together and introduced the current state and needs. Several issues came up frequently, like: the integration and harmonization of data on the semantic level, the  availability of data, the quality and usability of content analytics systems, and the need to educate people about what technologies to use for what purposes.
+
+== LIDER roadmapping workshop, 20 October Madrid ==
+
+=== General information ===
+* Main page: http://lider-project.eu/workshopMadrid/
+* Audience: Digital humanities and linguistics
+
+===Summary of outcomes===
+
+The event helped to increase awareness of linguistic linked data in focused communities such as digital humanities and linguistics. It brought together linguistics, digital humanities, computer science, and the public sector. Some key outcomes and topics discussed at the event are:
+
+# Dissemination of the guidelines and best practices for Linguistic Linked Data, as well as of the Ontolex-lemon model.
+# Application of linked data technologies in digital humanities. Several success stories were presented at the workshop, such as the Spanish National Library linked data portal. Libraries and related use cases are ready for the application of linguistic linked data techniques in the short term. 
+# Promotion of language technologies by the Spanish government.
+
+=Other activities relevant for roadmapping (in chronological order)=
+
+==XML Prague 2014==
+
+=== General information ===
+*Date/Place: February 2014, Prague
+* Main page: http://www.xmlprague.cz/preconf2014/#sem
+* Audience: XML tool developers
+* Detailed information: [https://www.w3.org/community/ld4lt/wiki/XML_Prague_2014_report XML Prague session report report]
+
+=== Summary of outcomes ===
+
+* Various groups of users can be identified for linked data aware content analytics tooling, from an individual content author to a content architect and indexing specialists working with masses of content.
+* For all these users the usability of content analytics tools are of high importance.
+* Tooling needs to be available in the right part of the content production workflow.
+* Certain standardization challenge can help the interoperability of metadata produced by content analytics applications.
+* These applications only add value for the end user if they are tailored to selected domains and languages. 
+* In that way content analytics also has the potential to become a booster for business models demonstrating the value of public open data.
+
+==MultilingualWeb Workshop 2014==
+
+=== General information ===
+* Date/Place: 07-08.05.2014, Madrid
+* Main page: http://www.multilingualweb.eu/documents/2014-madrid-workshop/
+* Audience: Web community at large
+* Detailed information: [http://www.multilingualweb.eu/documents/2014-madrid-workshop/2014-madrid-workshop-report MultilingualWeb workshop report]
+
+=== Summary of outcomes ===
+
+* The relation between Wikidata and DBpedia was a main topic of discussion. The workshop helped to understand the different and often complementary viewpoints of these efforts for creating multilingual structured data sources. 
+* Several participants and presentations stressed the need for standards. Multilingual, digital content workflows, including curated and crowd sourced data, need to be based on standards.
+* The embedding of linguistic linked data into general Web technology development is needed. 
+* The quality of linked data resources was a re-occurring topic at this event and many other LIDER roadmapping events.
+* For users of analytics solutions, often details of the technical approach are less important compared to other relevant dimensions such as capacity (volume, performance, latency) and cost of solutions.
+* Interoperability of language resource metadata is a key for all applications.
+
+==Tutorial on Linked Data for Language Technologies==
+=== General information ===
+* Date/Place: 26-31.05.2014 Reykjavic
+* Audience: PhD students, post-docs, or industry people working with NLP applications
+* Related event: [http://lrec2014.lrec-conf.org/en// LREC 2014]
+
+=== Summary of outcomes ===
+* Dissemination of linguistic linked data technologies; research related community building
+
+==Soap! Conference 2014==
+
+===General information===
+* Date/Place: 5-6.06.2014 Krakow
+* Main page: http://soapconf.com/schedule/
+* Audience: technical documentation authors and tool developers
+* Presentation: http://www.w3.org/Talks/2014/1003-soap-sasaki.pdf
+
+===Summary of outcomes===
+
+* Like other content related areas, technical documentation  suffers from more and more content being available on the Web. The industry asks: So how to survive the competition and make a difference?
+* Content with additional assets, like metadata to ease localization and further metadata for contextualization, personalization, or search engine optimization, could become the differentiator.
+* The terms semantic web or linked data are not well known in industry. High level business people who decide about budget for content workflow tools etc. see semantic web as an academic area.
+* One has to focus on the functionality and talk about metadata, then chances are higher to convince people investing in more technologies.
+* Application areas of linguistic linked data in technical documentation discussed are e.g.: users who have a problem with a device / software / ... search on the Web and find the answer often in manual content. But since currently most of the content is not enriched with metadata (=linked data annotations, schema.org, …), they search for keywords. Havingquestion answering functionality for technical documentation may be attractive for many industry areas, and may become a differentiator to competitors.
+* Technical documentation existing content already contains a lot of information which currently is lost in the process from authoring to Web publishing. There is an opportunity also for their existing content to become a value asset in above applications or others.
+
+==Building the Multilingual Web of Data Tutorial==
+
+===General information===
+* Date/Place: 20.10.2014, Riva de Garda
+* Main page: http://iswc2014.semanticweb.org/
+* Audience: Semantic Web Community researchers, developers, and practitioners with interest in multilingualism and/or NLP techniques in the context of the Semantic Web.
+* Related event: [http://iswc2014.semanticweb.org/ ISWC 2014]
+
+===Summary of outcomes===
+* Evangelization of linguistic linked data technologies; research related community building
+
+==EKAW 2014==
+
+===General information===
+* Date/Place: 24-28.11.2014, Linköping 
+* Main page: http://www.lider-project.eu/?q=ekaw14_LRLDTutorial
+* Audience: PhD students, post-docs, or industry people working with language resources and NLP applications
+* Related event:  [http://www.ida.liu.se/conferences/EKAW14/home.html EKAW 2014]
+
+==SHARE-PSI Roadmapping session on Linguistic Linked Data and commercial use==
+
+===General information===
+* Date/Place: 03.12.2014, Lisbon
+* Main page: http://www.w3.org/2013/share-psi/workshop/lisbon/agenda
+* Audience: Public sector information
+* Related event:  [http://www.w3.org/2013/share-psi/workshop/lisbon/ SHARE-PSI EVENT 2.0 2014]
+
+==Big Data Networking Day 2015==
+
+===General information===
+* Date/Place: 16.01.2015, Brussels
+*Audience: H2020 ICT-16 Project Participants
+
+===Summary of outcomes===
+* LIDER participants contributed to discussions about research and innovation planning in the area of language technologies. Here, LIDER cooperated with the Horizon 2020 projects CRACKER and LT-OBSERVATORY.
+
+==III Jornadas esDBpedia==
+
+===General information===
+* Date/Place: 20.01.2015, Madrid
+* Main page: http://es.dbpedia.org/wiki/Wiki.jsp?page=III%20Jornadas%20esDBpedia
+* Audience: Interested in Semantic Web and Linked Data
+
+===Summary of outcomes===
+Increase the amount and quality of semantic data stored in esDBpedia, and the number of links to other semantic data silos in Spanish, to make esDBpedia the core of semantic data in Spanish.
+This event helped to increase the awareness of linked data, the creation of semantic data and storage technologies.
+
+==Linked Data and Machine Translation Meeting 2015==
+
+===General information===
+*Date/Place: January 2015, Berlin
+*Audience: key research groups in the realm of machine translation and linguistic linked data.
+
+===Summary of outcomes===
+* Promote usage info on LLD resources in MT, to demonstrate their usefulness to the MT community.
+* Enhance tabular corpora with LLD metadata to enable more open, repeatable data management for shared MT training and evaluation tasks.
+* Develop “killer application showcases” demonstrating the use of MT for making the linked data Web multilingual, and vice versa. This is a two way relationship between MT and LLD. Currently it seems that the benefits of LLD for MT are easier to showcase, e.g. by using a multilingual LLD resource for MT training.
+* Consider joint research proposals. A project consortium focusing on linked data experts that understands multilingual aspects is key.
+* It was agreed that any strategic research direction for joint MT and LLD research should be informed by current public consensus building efforts with the aim of maximising industry involvement. Ongoing public consensus building activities include: Metadata for language resources developed with META-SHARE input at the Linked Data for Language Technology (LD4LT) community group at the W3C; Discussion on open data management for public automated translation at the ITS interest group at the W3C, which may provide useful input to the CEF for MT services; An initial LLD research roadmap5 developed by the LIDER project, due to be reviewed and revised at the LD4LT group; Best practice on multilingual linked open data which will address linked data profiles for terminology and parallel text resources.
+
+==XML Prague 2015==
+
+===General information===
+
+*Date/Place: February 2015, Prague
+* Main page: http://www.xmlprague.cz/preconf2015/#ldxml
+* Audience: XML tool developers
+
+===Summary of outcomes===
+* The relation of XML based toolchains to linked data toolchains has been identified as an important topic for getting real world application of (linguistic) linked data in XML based digital content workflows. Tackling this topic could be a task for future projects.
+
+
+==SHARE-PSI Roadmapping session on linguistic linked data sets for PSI==
+
+===General information===
+* Date/Place: 16.03.2015, Timişoara
+* Audience: Public Sector 
+* Related event: [http://www.w3.org/2013/share-psi/workshop/Timisoara/ SHARE-PSI EVENT 2.0 2015]
+
+==MultilingualWeb Workshop 2015 and Riga Summit on the Multilingual Digital Single Market==
+
+===General information===
+* Date/Place: 29.04.2015, Riga
+* Main page: http://www.multilingualweb.eu/documents/2015-riga-workshop/2015-riga-program
+* Audience: Web community at large
+* Part of the [http://www.rigasummit2015.eu/ Riga Summit 2015 on the Multilingual Digital Single Market]
+
+===Summary of outcomes===
+
+LIDER key people contributed via presentations, panel discussions, a LIDER booth, demos and posters to all three days of the Riga Summit: the META-FORUM event on day 1, the summit event on day 2, and on day 3 to the MultilingualWeb workshop and the Connecting Europe Facility event. In this way, LIDER raised awareness about linguistic linked data in a huge and diverse audience.
+
+==LIDER Sessions at the BDVA Summit 2015==
+
+===General information===
+* Date/Place: 19.06.2015, Madrid
+* Main page: 
+** Session on multilingual data vaue chains: http://lider-project.eu/?q=multilingual-data-value-chains
+** Session on Big Data and standardisation: http://w3.org/2015/06/bdva-summit_standardisation/
+* Audience: Big data community, including big data related industries, researchers and policy and decision makers
+* Related Event: [http://www.bdva.eu/?q=summit BDVA Summit 2015]
+
+===Summary of outcomes===
+
+A [http://www.big-data-europe.eu/standards-bdva/ blog post by the Big Data Europe project] who co-organised the session on standardisation summarizes the outcomes of that session. The session brought together stakeholders from various big data related communities and was one input to the planning of the [http://www.big-data-europe.eu/the-commission-launches-a-public-consultation-on-standards-in-the-digital-single-market-setting-priorities-and-ensuring-delivery/ European Commission survey on standards in the digital single market].
+
+The session on the multilingual digital single market brought together key people from industry and research who are interested in the bridge between language technologies and big data. It helped to continue and strengthen the already existing awareness in the big data community about language being the largest amount of data on the Web, and about needs and opportunities for handling big, multilingual data.
+
+==4th Workshop on the Multilingual Semantic Web (MSW-4)==
+
+===General information===
+* Date/Place: 01.06.2015, Portoroz
+* Main page: http://2015.eswc-conferences.org/program/workshops-tutorials#w2
+* Audience: for researchers at the intersection of NLP, multilingual information access, Linked Data and the Semantic Web
+* Related Event: [http://2015.eswc-conferences.org/ESWC ESWC 2015]
+
+==Summer Datathon on Linguistic Linked Data 2015==
+
+===General information===
+* Date/Place: 15-19.06.2015, Cercedilla del Monte
+* Main page: http://datathon.lider-project.eu/
+* Audience: industry and academia
+
+===Summary of outcomes===
+
+The datathon increased the awareness of linguistic linked data and attracted  many  people interested  in the topic, putting them in connection with other experts in various fields. The participants were encouraged to join related groups in W3C and the open knowledge foundation, and to stay in touch and the linked data community. Also they were encouraged to finish the datathon work items, to adopt guidelines using e.g. the LIDER reference cards, and to use LingHub for discovering language resources. They should increase the amount of linguistic linked data and consider work on new usage scenarios and linguistic linked data aware applications.
+
+
+==20th European symposium on Languages for Special Purposes==
+
+===General information===
+* Date/Place: 08-10.07.2015, Vienna
+* Main page: https://lsp2015.univie.ac.at/
+* Audience: LSP researchers
+
+===Summary of outcomes===
+
+At the event, usage of linguistic linked data in the realm of terminology was discussed. Data integration is a key challenge for terminological resources. This relates to integration of terminology resources in one language or across languages, as well as integration of terminological knowledge with world knowledge or other types of linguistic resources. The Lemon model can help to tackle this challenge, and tools like the TBX2RDF converter can ease application development.
+
+==ACL 2015==
+
+===General information===
+* Date/Place: 26-31.07.2015, Beijing
+* Main page: http://acl2015.org/
+* Audience:
+
+===Summary of outcomes===
+tbd
+
+
+==EDF 2015==
+
+===General information===
+* Date/Place:  15-16.11.2015 Luxembourg
+* Main page: http://2015.data-forum.eu/
+* Audience:  industry, research, policy makers, and community
+
+===Summary of outcomes===
+Raise awareness of Linguistic Linked Data, and main goals achieved by LIDER project.
+Dissemination of main outcomes of the project: Guidelines and Best practices for linguistic linked data, though the video and also through other visual material printed like leaflet or reference cards.
+Set up and support a community and attract many people/users interested in Linked data or that can be benefit by Linked Data technologies produced by LIDER.
+Networking
+Symbiosis with other projects
+</textarea><div class="templatesUsed"></div><p id="mw-returnto">Return to <a href="/community/ld4lt/wiki/Lider_roadmapping_activities" title="Lider roadmapping activities">Lider roadmapping activities</a>.</p>
+
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://www.w3.org/community/ld4lt/wiki/Lider_roadmapping_activities">https://www.w3.org/community/ld4lt/wiki/Lider_roadmapping_activities</a>"</div></div>
+					<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="/community/ld4lt/wiki/Linked_Data_for_Language_Technology_Community_Group:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/community/ld4lt/wiki/Linked_Data_for_Language_Technology_Community_Group:About">About Linked Data for Language Technology Community Group</a></li>
+	<li id="footer-places-disclaimers"><a href="/community/ld4lt/wiki/Linked_Data_for_Language_Technology_Community_Group:General_disclaimer">Disclaimers</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="/community/ld4lt/wiki/resources/assets/poweredby_mediawiki.svg" alt="Powered by MediaWiki" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul></ul>
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":36,"wgPageParseReport":{"limitreport":{"cputime":"0.001","walltime":"0.001","ppvisitednodes":{"value":9,"limit":1000000},"postexpandincludesize":{"value":23,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20260506100732","ttl":86400,"transientcontent":false}}});});</script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/2005/06/tracker/webui.css" media="screen" />
+  <link rel='alternate' type='application/atom+xml' href='/community/ld4lt/track/issues/4.atom' title='Chagelog as ATOM feed' />   <title>ISSUE-4: Terminology and linked data - Linked Data for Language Technology Community Group Tracker</title>
+<script type='text/javascript' src='/2007/08/datepicker/js/datepicker.js'></script>
+<script src='/2005/06/tracker/ui.js' type='text/javascript'></script>
+
+<link href='/2007/08/datepicker/css/datepicker.css' rel='stylesheet' type='text/css' />
+</head>
+<body>
+<div id="sidebar">
+  <div id="navigation">
+  <h3><a href='https://www.w3.org/community/ld4lt/'>Linked Data for Language Technology Community Group</a> Issue Tracking</h3>
+  <ul>
+    <li><a href="/community/ld4lt/track/">Summary</a></li>
+  <li>Issues: 
+     <ul>
+     <li><a href="/community/ld4lt/track/issues/raised">Raised</a></li>
+     <li><a href="/community/ld4lt/track/issues/open">Open</a></li>
+<li><a href="/community/ld4lt/track/issues/pendingreview">Pending Review</a></li>
+             <li><a href="/community/ld4lt/track/issues/closed">Closed</a></li>      
+     <li><a href="/community/ld4lt/track/issues/postponed">Postponed</a></li>
+              <li><a href="/community/ld4lt/track/issues">All</a></li>
+         <li><a href="/community/ld4lt/track/issues/new">Create</a></li>
+      </ul>
+  </li>
+  <li>Actions:
+  <ul>
+      <li><a href="/community/ld4lt/track/actions/open">Open</a></li>
+      <li><a href="/community/ld4lt/track/actions/overdue">Overdue</a></li>
+      <li><a href="/community/ld4lt/track/actions/closed">Closed</a></li>
+      <li><a href="/community/ld4lt/track/actions/pendingreview">Pending Review</a></li>
+<li><a href="/community/ld4lt/track/actions/new">Raise</a></li>
+  </ul>
+  </li>
+  <li><a href="/community/ld4lt/track/users">Users</a>
+  <ul><li><a href='/2005/06/tracker/users/my'><em>My</em> Tracker</a></li></ul>
+  </li> 
+  <li><a href="/community/ld4lt/track/products">Products</a></li>
+  <li><a href="/community/ld4lt/track/agenda">Agenda planning</a></li>
+  <li><a href="/community/ld4lt/track/changelog">Recent activity</a></li> 
+  </ul>
+</div>
+<div id="operation">
+  <ul>
+    <li><a href="/community/ld4lt/track/issues/4/edit">Edit this issue</a></li>
+  </ul>
+</div>
+</div>
+
+<div id="content">
+<h1>ISSUE-4: Terminology and linked data</h1>
+<h2>terminology</h2>
+<h2>Terminology and linked data</h2>
+<dl>
+<dt>State:</dt>
+<dd>RAISED</dd>
+<dt>Product:</dt>
+<dd><a href='/community/ld4lt/track/products/'></a></dd>
+<dt>Raised by:</dt>
+<dd><a href='/community/ld4lt/track/users/'>David Lewis</a></dd>
+<dt>Opened on:</dt>
+<dd>2014-05-20</dd>
+<dt>Description:</dt>
+<dd>Many localisation and terminology management tools use the XML Term based eXchange format (TBX) [1][2] to exchange terminological data. How can this interoperate with lingustic linked data that supports term or phrase translation, e.g. babelnet [2]?<br />
+<br />
+Further TBX resoruces can be found at [3]<br />
+<br />
+[1] <a href='http://www.ttt.org/oscarStandards/tbx/tbx_oscar.pdf'>http://www.ttt.org/oscarStandards/tbx/tbx_oscar.pdf</a><br />
+[2] <a href='http://babelnet.org/'>http://babelnet.org/</a><br />
+[3] <a href='http://www.ttt.org/oscarStandards/tbx/'>http://www.ttt.org/oscarStandards/tbx/</a></dd>
+<dt>Related Actions Items:</dt>
+<dd>No related actions</dd>
+<dt>Related emails:</dt>
+<dd id='emails'><ol>
+<li id='e165188'><a href="https://www.w3.org/mid/AC6FD4BB9BB02540AC7322091A6C3B547327CB902C%2540postal.Tilde.lv">RE: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from tatiana.gornostay@tilde.lv on 2014-06-17)</li>
+<li id='e165187'><a href="https://www.w3.org/mid/3DC80C62-1FCB-43A5-A57A-87C94E6356C5%2540gmail.com">Re: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from arle.lommel@gmail.com on 2014-06-17)</li>
+<li id='e165186'><a href="https://www.w3.org/mid/539FE688.7070307%2540cit-ec.uni-bielefeld.de">Re: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from cimiano@cit-ec.uni-bielefeld.de on 2014-06-17)</li>
+<li id='e165066'><a href="https://www.w3.org/mid/5399B1E0.9020008%2540cit-ec.uni-bielefeld.de">Re: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from cimiano@cit-ec.uni-bielefeld.de on 2014-06-12)</li>
+<li id='e165056'><a href="https://www.w3.org/mid/53999928.7050500%2540cs.tcd.ie">Re: AW: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from dave.lewis@cs.tcd.ie on 2014-06-12)</li>
+<li id='e165057'><a href="https://www.w3.org/mid/D571773599F4B0499F9752FB2FFF5630D89ADB9A%2540mbx5.ad.wu-wien.ac.at">AW: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from Dagmar.Gromann@wu.ac.at on 2014-06-11)</li>
+<li id='e164779'><a href="https://www.w3.org/mid/1C49E153-2477-48DC-889E-21524ED5545A%2540cs.tcd.ie">Re: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from dave.lewis@cs.tcd.ie on 2014-06-11)</li>
+<li id='e164769'><a href="https://www.w3.org/mid/0A4EBF0E-D047-424F-84AE-7C10DA96A1D6%2540w3.org">Re: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from fsasaki@w3.org on 2014-06-11)</li>
+<li id='e163917'><a href="https://www.w3.org/mid/537DFD08.2050306%2540cs.tcd.ie">Re: FW: FW: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from dave.lewis@cs.tcd.ie on 2014-05-22)</li>
+<li id='e163813'><a href="https://www.w3.org/mid/39DB516E46C0E842A2CFFF1BBB7412F15F7B693F%2540S-DC-ESTF03-B.net1.cec.eu.int">FW: FW: ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from Manuel.CARRASCO-BENITEZ@ec.europa.eu on 2014-05-20)</li>
+<li id='e163811'><a href="https://www.w3.org/mid/E1WmjWo-0005VW-8U%2540shauna.w3.org">ld4lt-ISSUE-4 (terminology): Terminology and linked data</a> (from sysbot+tracker@w3.org on 2014-05-20)</li>
+</ol></dd>
+</dl>
+<h2>Related notes:</h2>
+<p>No additional notes.</p>
+<p>Display <a href='/community/ld4lt/track/issues/4?changelog'>change log</a> <a href='/community/ld4lt/track/issues/4.atom'><img src='/2008/site/images/icons/atom'
+			 alt='ATOM feed' width='12' height='12' /></a></p>
+</div>
+<div class="diagnostics">
+</div>
+<hr />
+<address>
+John McCrae &lt;<a href='mailto:johnmccrae@gmail.com'>johnmccrae@gmail.com</a>&gt;, David Lewis &lt;<a href='mailto:dave.lewis@cs.tcd.ie'>dave.lewis@cs.tcd.ie</a>&gt;, Elena Montiel Ponsoda &lt;<a href='mailto:emontiel@fi.upm.es'>emontiel@fi.upm.es</a>&gt;, Philipp Cimiano &lt;<a href='mailto:cimiano@cit-ec.uni-bielefeld.de'>cimiano@cit-ec.uni-bielefeld.de</a>&gt;, Sebastian Hellmann &lt;<a href='mailto:hellmann@informatik.uni-leipzig.de'>hellmann@informatik.uni-leipzig.de</a>&gt;, Andreas Blumauer &lt;<a href='mailto:a.blumauer@semantic-web.at'>a.blumauer@semantic-web.at</a>&gt;, Christian Chiarcos &lt;<a href='mailto:christian.chiarcos@web.de'>christian.chiarcos@web.de</a>&gt;, Chairs, Dominique Hazaël-Massieux &lt;<a href='mailto:dom@w3.org'>dom@w3.org</a>&gt;, Staff Contact<br />
+Tracker: <a href="https://www.w3.org/2005/06/tracker/">documentation</a>, 
+(<a href='/community/ld4lt/track/options'>configuration for this group</a>), originally developed by <a href="https://www.w3.org/People/Dean/">Dean Jackson</a>, 
+is developed and maintained by the Systems Team &lt;<a href='mailto:w3t-sys@w3.org'>w3t-sys@w3.org</a>&gt;.<br />
+$Id: 4.html,v 1.1 2019/12/03 12:50:03 carcone Exp $</address>
+<script src='/2005/06/tracker/show-email-inline.js' type='text/javascript'></script>
+</body>
+</html>

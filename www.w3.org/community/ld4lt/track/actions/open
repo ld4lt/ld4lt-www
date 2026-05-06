@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <link rel="stylesheet" type="text/css" href="/2005/06/tracker/webui.css" media="screen" />
+     <title>Open Actions - Linked Data for Language Technology Community Group Tracker</title>
+<script type='text/javascript' src='/2007/08/datepicker/js/datepicker.js'></script>
+<script src='/2005/06/tracker/ui.js' type='text/javascript'></script>
+
+<link href='/2007/08/datepicker/css/datepicker.css' rel='stylesheet' type='text/css' />
+</head>
+<body>
+<div id="sidebar">
+  <div id="navigation">
+  <h3><a href='https://www.w3.org/community/ld4lt/'>Linked Data for Language Technology Community Group</a> Issue Tracking</h3>
+  <ul>
+    <li><a href="/community/ld4lt/track/">Summary</a></li>
+  <li>Issues: 
+     <ul>
+     <li><a href="/community/ld4lt/track/issues/raised">Raised</a></li>
+     <li><a href="/community/ld4lt/track/issues/open">Open</a></li>
+<li><a href="/community/ld4lt/track/issues/pendingreview">Pending Review</a></li>
+             <li><a href="/community/ld4lt/track/issues/closed">Closed</a></li>      
+     <li><a href="/community/ld4lt/track/issues/postponed">Postponed</a></li>
+              <li><a href="/community/ld4lt/track/issues">All</a></li>
+         <li><a href="/community/ld4lt/track/issues/new">Create</a></li>
+      </ul>
+  </li>
+  <li>Actions:
+  <ul>
+      <li><a href="/community/ld4lt/track/actions/open">Open</a></li>
+      <li><a href="/community/ld4lt/track/actions/overdue">Overdue</a></li>
+      <li><a href="/community/ld4lt/track/actions/closed">Closed</a></li>
+      <li><a href="/community/ld4lt/track/actions/pendingreview">Pending Review</a></li>
+<li><a href="/community/ld4lt/track/actions/new">Raise</a></li>
+  </ul>
+  </li>
+  <li><a href="/community/ld4lt/track/users">Users</a>
+  <ul><li><a href='/2005/06/tracker/users/my'><em>My</em> Tracker</a></li></ul>
+  </li> 
+  <li><a href="/community/ld4lt/track/products">Products</a></li>
+  <li><a href="/community/ld4lt/track/agenda">Agenda planning</a></li>
+  <li><a href="/community/ld4lt/track/changelog">Recent activity</a></li> 
+  </ul>
+</div>
+</div>
+
+<div id="content">
+<h1>Open Actions</h1>
+<form action='#' method='post'>	<fieldset class='actions'>
+	<legend>Apply the following changes to selected action items:</legend>
+<ul><li><label>Mark as <select name='status'>
+<option value='-1'>No status change</option>
+<option value='0'>Open</option>
+<option value='2'>Pending review</option>
+<option value='1'>Closed</option>
+</select></label></li>
+<li><label>Update due date to: 
+<input class="w8em format-y-m-d divider-dash highlight-days-67  no-transparency"
+type="text" name="due" value="No change" size="10" /></label></li>
+<li><label>Associate to issue: <select name='issue'>
+<option value='-1'>No change</option>
+<optgroup label="Open issues">
+	<option value="1">ISSUE-1: use cases &amp; requirements</option>
+<option value="3">ISSUE-3: role-of-dcat</option>
+<option value="4">ISSUE-4: terminology</option>
+</optgroup>
+<optgroup label="Closed issues">
+	<option value="2">ISSUE-2: meta-share-metadata-model-work-approach</option>
+</optgroup></select></label>
+</li>
+<li><label>Associate to product: <select name='product'>
+<option value='-1'>No change</option>
+<option title='META-SHARE metadata model' value='1'>META-SHARE metadata model</option>
+</select></label></li>
+</ul>
+<p><input type='submit' value='Apply' /></p>
+</fieldset>
+<p>There are 2 open actions.</p>
+
+<table id='open_action' summary='List of open action items sorted by id'>
+<thead>
+<tr>
+<th><span class="sort">&darr;</span>ID</th>
+<th><a class="sort" title="sort by status" href="?sort=status">&darr;</a>State</th>
+<th>Title</th>
+<th><a class="sort" title="sort by owner" href="?sort=owner">&darr;</a>Person</th>
+<th><a class="sort" title="sort by due" href="?sort=due">&darr;</a>Due Date</th>
+<th>Associated with</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even"><td class='action'><input title='Check to select action &quot;Produce a new google doc and owl based on the real use of the ms model in the data&quot; for en-masse editing'
+      	name='actions[17]' type='checkbox' /><a href="/community/ld4lt/track/actions/17">ACTION-17</a><a href='/community/ld4lt/track/actions/17/edit' title='Edit ACTION-17'><img width='8' height='12' src='/2002/09/wbs/icons/stock_edit2' alt=' (edit)'  /></a></td>
+<td class='open'>open</td>
+<td><a href="/community/ld4lt/track/actions/17">Produce a new google doc and owl based on the real use of the ms model in the data</a></td>
+<td>John McCrae</td>
+<td><span class="overdue">2015-01-29</span></td>
+<td></td>
+</tr>
+<tr class="odd"><td class='action'><input title='Check to select action &quot;Setup a namespace document&quot; for en-masse editing'
+      	name='actions[18]' type='checkbox' /><a href="/community/ld4lt/track/actions/18">ACTION-18</a><a href='/community/ld4lt/track/actions/18/edit' title='Edit ACTION-18'><img width='8' height='12' src='/2002/09/wbs/icons/stock_edit2' alt=' (edit)'  /></a></td>
+<td class='open'>open</td>
+<td><a href="/community/ld4lt/track/actions/18">Setup a namespace document</a></td>
+<td>Felix Sasaki</td>
+<td><span class="overdue">2015-01-29</span></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</form><script type='text/javascript'>addSelectAllButtons('actions')</script>
+<p><a href='/community/ld4lt/track/actions/new'>Add a new action item</a>.
+	 See <a href='/community/ld4lt/track/actions'>all the action items</a></p></div>
+<div class="diagnostics">
+</div>
+<hr />
+<address>
+John McCrae &lt;<a href='mailto:johnmccrae@gmail.com'>johnmccrae@gmail.com</a>&gt;, David Lewis &lt;<a href='mailto:dave.lewis@cs.tcd.ie'>dave.lewis@cs.tcd.ie</a>&gt;, Elena Montiel Ponsoda &lt;<a href='mailto:emontiel@fi.upm.es'>emontiel@fi.upm.es</a>&gt;, Philipp Cimiano &lt;<a href='mailto:cimiano@cit-ec.uni-bielefeld.de'>cimiano@cit-ec.uni-bielefeld.de</a>&gt;, Sebastian Hellmann &lt;<a href='mailto:hellmann@informatik.uni-leipzig.de'>hellmann@informatik.uni-leipzig.de</a>&gt;, Andreas Blumauer &lt;<a href='mailto:a.blumauer@semantic-web.at'>a.blumauer@semantic-web.at</a>&gt;, Christian Chiarcos &lt;<a href='mailto:christian.chiarcos@web.de'>christian.chiarcos@web.de</a>&gt;, Chairs, Dominique Hazaël-Massieux &lt;<a href='mailto:dom@w3.org'>dom@w3.org</a>&gt;, Staff Contact<br />
+Tracker: <a href="https://www.w3.org/2005/06/tracker/">documentation</a>, 
+(<a href='/community/ld4lt/track/options'>configuration for this group</a>), originally developed by <a href="https://www.w3.org/People/Dean/">Dean Jackson</a>, 
+is developed and maintained by the Systems Team &lt;<a href='mailto:w3t-sys@w3.org'>w3t-sys@w3.org</a>&gt;.<br />
+$Id: open.html,v 1.1 2019/12/03 12:50:00 carcone Exp $</address>
+<script src='/2005/06/tracker/show-email-inline.js' type='text/javascript'></script>
+</body>
+</html>
