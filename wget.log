@@ -1,0 +1,12 @@
+--2026-05-06 12:04:59--  https://www.w3.org/community/ld4lt/
+Resolving www.w3.org (www.w3.org)... 104.18.23.19, 104.18.22.19, 2606:4700::6812:1713, ...
+Connecting to www.w3.org (www.w3.org)|104.18.23.19|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2026-05-06 12:04:59 ERROR 403: Forbidden.
+
+--2026-05-06 12:04:59--  https://www.w3.org/community/ld4lt/wiki
+Resolving www.w3.org (www.w3.org)... 104.18.22.19, 104.18.23.19, 2606:4700::6812:1713, ...
+Connecting to www.w3.org (www.w3.org)|104.18.22.19|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2026-05-06 12:04:59 ERROR 403: Forbidden.
+
